@@ -45,7 +45,7 @@ Identificar los principales motivos de devolución, analizar su frecuencia y eva
 ## 📂 Contenido del repositorio
 
 - `Herramientas_Básicas_999201624_Rodriguez_Paola.ipynb` → análisis exploratorio en Python  
-- `dataset_limpio.xlsx` → dataset procesado  
+- `dataset.csv` → dataset procesado  
 - `Presentación Final_TPUTN_2026.pbix / dashboard.pdf` → visualización en Power BI  
 
 ---
