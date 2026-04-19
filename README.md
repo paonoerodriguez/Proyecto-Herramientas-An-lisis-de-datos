@@ -70,4 +70,4 @@ Estos hallazgos permiten detectar oportunidades de mejora en la gestión de pres
 
 ## 👤 Autor
 
-Trabajo realizado como proyecto final del curso de Herramientas básicas para el análisis de datos – UTN.
+Rodriguez Paola_Trabajo realizado como proyecto final del curso de Herramientas básicas para el análisis de datos – UTN.
